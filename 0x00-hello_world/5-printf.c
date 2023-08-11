@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main - Doing hard things 
- * Return: 0 (Workdout)
+ * main -Entry point
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
